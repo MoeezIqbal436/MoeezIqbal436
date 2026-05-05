@@ -1,4 +1,4 @@
-<h1 align="center">Assalam-u-Alaikum, I'm Moeez Iqbal! 👋</h1>
+<h1 align="center">Hey, I'm Moeez Iqbal! 👋</h1>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
@@ -13,10 +13,10 @@
   <a href="https://moeeziqbal.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/moeeziqbal">
+  <a href="https://www.linkedin.com/in/moeez-iqbal-9077a0287">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/moeeziqbal">
+  <a href="https://www.instagram.com/_moee_zch">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -76,10 +76,10 @@ I'm a passionate **AI / ML Engineer** from Pakistan 🇵🇰, focused on buildin
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/moeeziqbal">
+  <a href="https://www.linkedin.com/in/moeez-iqbal-9077a0287">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/moeeziqbal">
+  <a href="https://www.instagram.com/_moee_zch">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:moeeziqbal436@gmail.com">
