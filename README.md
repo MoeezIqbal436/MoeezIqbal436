@@ -1,4 +1,4 @@
-<h1 align="center">Assalam-u-Alaikum, I'm Moeez Iqbal! 👋</h1>
+<h1 align="center">Hey, I'm Moeez Iqbal! 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A0DAD&center=true&vCenter=true&width=500&lines=AI+%7C+ML+%7C+Deep+Learning+Engineer;Python+Developer;Always+learning+new+things!" alt="Typing SVG" />
