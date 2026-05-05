@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://img.shields.io/badge/:badgeContent
+[![Portfolio](https://img.shields.io/badge/Portfolio-yoursite.com-orange)](https://yoursite.com)
+[![Email](https://img.shields.io/badge/Email-me-blue)](mailto:you@email.com)
