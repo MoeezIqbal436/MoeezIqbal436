@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-yoursite.com-orange)](https://yoursite.com)
-[![Email](https://img.shields.io/badge/Email-me-blue)](mailto:you@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yoursite.com-orange)](https://moeeziqbal.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-me-blue)](moeeziqbal436@gmail.com)
+![Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,typescript,html,css)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
