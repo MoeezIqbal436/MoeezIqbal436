@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-I'm a passionate **AI / ML Engineer** from Pakistan 🇵🇰, focused on building intelligent systems and pushing the boundaries of what machines can learn.
+I'm a passionate AI / ML Engineer from Pakistan 🇵🇰, focused on building intelligent systems and pushing the boundaries of what machines can learn.
 
 - 🔭 Currently diving deep into **Deep Learning & Neural Networks**
 - 🌱 Exploring **Computer Vision, NLP, and Generative AI**
@@ -60,17 +60,17 @@ I'm a passionate **AI / ML Engineer** from Pakistan 🇵🇰, focused on buildin
 ## 🤝 Connect with Me
 
 <p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&to=moeeziqbal436@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/moeez-iqbal-9077a0287">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/_moee_zch">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:moeeziqbal436@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://moeeziqbal.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/_moee_zch">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
