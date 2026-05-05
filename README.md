@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-yoursite.com-orange)](https://moeeziqbal.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-me-blue)](mailto:moeeziqbal436@email.com)
-![Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,typescript,html,css)
+[![Email](https://img.shields.io/badge/Email-me-blue)](mailto:moeeziqbal436@gmail.com)
