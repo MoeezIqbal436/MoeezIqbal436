@@ -20,11 +20,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
----
-
-## 🧠 About Me
-
 I'm a passionate **AI / ML Engineer** from Pakistan 🇵🇰, focused on building intelligent systems and pushing the boundaries of what machines can learn.
 
 - 🔭 Currently diving deep into **Deep Learning & Neural Networks**
@@ -56,20 +51,9 @@ I'm a passionate **AI / ML Engineer** from Pakistan 🇵🇰, focused on buildin
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoeezIqbal436&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoeezIqbal436&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=MoeezIqbal436&theme=tokyonight&hide_border=true" width="55%" />
-</p>
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Huggingface](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ---
 
@@ -91,9 +75,5 @@ I'm a passionate **AI / ML Engineer** from Pakistan 🇵🇰, focused on buildin
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MoeezIqbal436&label=Profile+Views&color=6A0DAD&style=flat" alt="Profile Views" />
-</p>
 
 <p align="center">⭐ <i>Feel free to star my repos if you find them helpful!</i> ⭐</p>
